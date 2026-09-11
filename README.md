@@ -1,25 +1,31 @@
-# coffeeshopv1
-Case Study Project Coffee Shop V1
+# coffeeshopv2
+Case Study Project Coffee Shop V2
 
 # LoginScreen
 
-<img width="1919" height="1029" alt="Screenshot 2026-09-06 152255" src="https://github.com/user-attachments/assets/ab660880-edd4-4cb0-aae1-ab822a0103ed" />
+<img width="30%" alt="Screenshot_20260912_023626" src="https://github.com/user-attachments/assets/cd62594e-2140-48ea-abe1-ee722460b42c" />
 
 # HomeScreen
 
-<img width="1919" height="1035" alt="Screenshot 2026-09-06 152350" src="https://github.com/user-attachments/assets/79f72cc5-e147-4353-b8e0-7ff9dca38cfd" />
+<img width="30%" alt="Screenshot_20260912_023705" src="https://github.com/user-attachments/assets/8cae1c6d-cdee-4691-a07c-d6ef6d054138" />
 
 # ProductDetailScreen
 
-<img width="1919" height="1028" alt="Screenshot 2026-09-06 152402" src="https://github.com/user-attachments/assets/6e1a4909-f0f8-423f-a649-1a353ec1c9e1" />
+<img width="30%" alt="Screenshot_20260912_023812" src="https://github.com/user-attachments/assets/87178ca3-059c-4790-9a9d-8fcf9e8bb26e" />
 
 # CartScreen
 
-<img width="1919" height="1037" alt="Screenshot 2026-09-06 152417" src="https://github.com/user-attachments/assets/d2a0de84-397c-4027-83c1-03ef1d59ef6a" />
+<img width="30%" alt="Screenshot_20260912_023725" src="https://github.com/user-attachments/assets/ec2ba018-6fcd-4b93-ba3c-eb06fdf2f978" />
 
-# VedioPreview 
+# FavoriteScreen
 
-[![VedioPreview](https://markdown-videos-api.jorgenkh.no/youtube/-15yOEsHsEY)](https://youtu.be/-15yOEsHsEY)
+<img width="30%" alt="Screenshot_20260912_023717" src="https://github.com/user-attachments/assets/60352f46-cb4c-4749-9f0d-6693933ee279" />
 
+# AdminProductListScreen
 
+<img width="30%" alt="Screenshot_20260912_023733" src="https://github.com/user-attachments/assets/345cffb9-5400-48e6-bf48-260628c6d8ee" />
+
+# AdminProductFormScreen
+
+<img width="30%" alt="Screenshot_20260912_023800" src="https://github.com/user-attachments/assets/cb9f1372-b325-4d16-8f5b-9b5d50710352" />
 
